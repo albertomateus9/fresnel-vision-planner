@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.1.0",
   "type": "module",
-  "description": "Visual line-of-sight and Fresnel-zone risk planner for low-cost wireless and optical links.",
+  "description": "Ferramenta local para planejar enlaces radio/opticos, estimar linha de visada e avaliar risco de obstrucao.",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
